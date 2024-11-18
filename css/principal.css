@@ -1,0 +1,58 @@
+
+#frases h1{
+font-size: 3rem; 
+display: flex;
+justify-content: center; 
+margin-top: 5rem;
+} 
+
+
+h1{
+    text-align: center;
+    font-size: 1.5rem; 
+    margin-top: 1.5rem;
+    }
+
+
+.albuns img{
+display: inline block;
+height: 20rem;
+width: 20rem;  
+margin-top: 2rem    ;
+}
+
+.albuns ul{
+display: flex;
+gap: 1rem;
+margin-left: 35rem;
+} 
+
+
+#albuns2 img{
+display: inline-block; 
+margin-top: 5rem;
+} 
+ 
+
+#textoVerde{
+background-color: 
+}
+
+#textoVerde small{
+color: green; 
+font-size: 1rem;  
+display: flex;
+justify-content: center; 
+margin-top: 5rem;
+margin-bottom: 4rem;
+} 
+
+#principal {
+display: flex; 
+}
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+footer{
+background-color: #282828; 
+height: 8rem;
+width: 100%;
+margin-top: 4rem;
+} 
+
+
+
+#rodape{
+height: 12.5rem;
+width: 180rem;
+
+
+}
+#rodape  img{
+display: flex;
+} 
+
+
+#icones ul{
+    display: flex; 
+    flex-direction: row; 
+    gap: 3.5rem; 
+    justify-content: center; 
+    } 
+    
+    
+    #icones img{
+    width: 3rem; 
+    height: 3rem; 
+    margin-top: 1rem;
+    
+    }  
+    
+
+ /* #barra {
+    margin-top: 1rem; 
+    width: 40rem; 
+    justify-content: center; 
+    margin-left: 62rem; 
+    background-color: aqua; 
+    } 
+ */ 
+
+ .barra{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+    align-items: center;
+    color: #ffffff;
+    font-weight: 1000;
+    font-size: 1.6rem;
+}
+
+.barraAudio{
+    width: 30rem;
+    display: flex;
+    flex-direction: column;
+}
+.barraAudio > hr{
+    border: .1rem solid green
